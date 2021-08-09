@@ -1,6 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 🚀 
+## One image every day - [NASA]
 
-## Getting Started
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+
+## Getting Started  🚀 
 
 * Run `npm i` to install the required dependencies.
 * Run `yarn start` or `npm start` to spin up the development server.
